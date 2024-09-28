@@ -14,3 +14,5 @@ class students {
 
 
 console.log(new students("Sabbir","10", 2023).student())
+
+
